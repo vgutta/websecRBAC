@@ -1,0 +1,12 @@
+{
+  "name": "rbac",
+  "version": "0.0.1",
+  "description": "RBAC with Google, Facebook, and Twitter",
+  "main": "server.js",
+  "repository": "",
+  "author": "Vineeth Gutta",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4"
+  }
+}
